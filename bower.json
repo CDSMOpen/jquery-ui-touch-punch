@@ -5,7 +5,7 @@
   "authors": [
     "ianllewellyn <ian@designsideways.com>"
   ],
-  "main": "jquery.ui.touch.punch.js",
+  "main": "jquery.ui.touch-punch.js",
   "keywords": [
     "jquery",
     "jqueryui",
