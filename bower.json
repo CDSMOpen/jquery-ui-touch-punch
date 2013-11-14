@@ -1,0 +1,17 @@
+{
+  "name": "jquery-ui-touch-punch",
+  "version": "0.2.2",
+  "homepage": "https://github.com/CDSMOpen/jquery-ui-touch-punch",
+  "authors": [
+    "ianllewellyn <ian@designsideways.com>"
+  ],
+  "main": "jquery.ui.touch.punch.js",
+  "keywords": [
+    "jquery",
+    "jqueryui",
+    "touch",
+    "punch"
+  ],
+  "license": "MIT",
+  "private": true
+}
